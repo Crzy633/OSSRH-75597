@@ -263,3 +263,15 @@
 
 登录之后，可能左侧，Staging Repositories，先close， 再release。就算是发布成功了。
 
+
+
+
+
+
+
+# 最后
+
+需要等一段时间（可能是一天？）审核，就能在https://search.maven.org/上搜到了。
+
+百度上说去那个issue回复一下可以加快审核。
+
