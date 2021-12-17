@@ -275,3 +275,12 @@
 
 百度上说去那个issue回复一下可以加快审核。
 
+
+# 更新版本
+
+改动代码后，执行任务: assemble生成新的.aar包。
+
+改动PUBLISH_VERSION的值，再执行任务：publishReleasePublicationToXXXRepository。
+
+最后再走一遍步骤四。
+
