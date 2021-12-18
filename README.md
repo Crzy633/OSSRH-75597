@@ -257,7 +257,7 @@
 
 ## 步骤四
 
-进入https://s01.oss.sonatype.org/，点右上角登录，输入sonatype的账号密码
+进入https://s01.oss.sonatype.org/ ，点右上角登录，输入sonatype的账号密码
 
 如果登录失败，可能你不是这个链接，这个链接在上面sonatype的issue问题，成功变为resolved时，工作人员有提示给两条链接，点进去里面有。
 
@@ -271,7 +271,7 @@
 
 # 最后
 
-需要等一段时间（可能是一天？）审核，就能在https://search.maven.org/上搜到了。
+需要等一段时间（可能是一天？）审核，就能在https://search.maven.org/ 上搜到了。
 
 百度上说去那个issue回复一下可以加快审核。
 
