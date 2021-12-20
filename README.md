@@ -261,7 +261,7 @@
 
 如果登录失败，可能你不是这个链接，这个链接在上面sonatype的issue问题，成功变为resolved时，工作人员有提示给两条链接，点进去里面有。
 
-登录之后，可能左侧，Staging Repositories，先close， 再release。就算是发布成功了。
+登录之后，可能左侧，Staging Repositories，先close，（等1分钟左右）再release。就算是发布成功了。
 
 
 
